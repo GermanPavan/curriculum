@@ -1,0 +1,19 @@
+.DatosPersonales{
+    
+}
+
+.GermanPavan{
+font-size: 24;
+color: blue;
+}
+
+.foto{
+  width: 150px;
+  height: 150px;
+}
+
+.figure  {
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+}
